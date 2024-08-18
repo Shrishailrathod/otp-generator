@@ -1,0 +1,20 @@
+ #print-otp {
+     margin-left: 38%;
+     margin-top: 20%;
+ }
+
+ #otp-display {
+     margin-left: 35%;
+     margin-top: 01%;
+     /* border: 2px solid red; */
+     border: none;
+     background-color: aqua;
+     width: 150px;
+ }
+
+ #otp-display {
+     /* display: none; */
+ }
+
+
+ 
